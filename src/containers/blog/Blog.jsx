@@ -5,7 +5,7 @@ import { blog01, blog02, blog03, blog04, blog05 } from './imports';
 
 const articleInfo = {
   date: "Sep 26, 2021",
-  title: "GPT-3 and Open  AI is the future. Let us exlore how it is?"
+  title: "Crypto Stop and Block Chain are the future. Let's exlore how we can use it."
 }
 
 const imagesB = [blog02, blog03, blog04, blog05]

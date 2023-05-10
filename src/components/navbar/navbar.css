@@ -17,9 +17,12 @@
     margin-right: 2rem;
 }
 
-.gpt3__navbar-links_logo img {
-    width: 62px;
-    height: 16px;
+.gpt3__navbar-links_logo p {
+    font-family: var(--font-family);
+    font-size: 32px;
+    font-weight: 900;
+    color: #fff;
+    text-decoration: overline;
 }
 
 .gpt3__navbar-links_container {

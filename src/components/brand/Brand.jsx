@@ -1,24 +1,24 @@
 import React from 'react';
 import './brand.css';
-import {google, slack, atlassian, dropbox, shopify} from './imports'
+import {litelogo, dogelogo, bitcoinlogo, ripplelogo, ethlogo} from './imports'
 
 const Brand = () => {
   return (
     <div className='gpt3__brand section__padding'>
       <div>
-        <img src={google} alt="google" />
+        <img className='brand__img' src={bitcoinlogo} alt="bitcoin" />
       </div>
       <div>
-        <img src={slack} alt="slack" />
+        <img className='brand__img' src={dogelogo} alt="dogecoin" />
       </div>
       <div>
-        <img src={atlassian} alt="atlassian" />
+        <img className='brand__img' src={ethlogo} alt="ethereum" />
       </div>
       <div>
-        <img src={dropbox} alt="dropbox" />
+        <img className='brand__img' src={litelogo} alt="litecoin" />
       </div>
       <div>
-        <img src={shopify} alt="shopify" />
+        <img className='brand__img' src={ripplelogo} alt="ripplelogo" />
       </div>
     </div>
   )

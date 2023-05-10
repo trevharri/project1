@@ -1,13 +1,13 @@
-import google from '../../assets/google.png'
-import slack from '../../assets/slack.png'
-import atlassian from '../../assets/atlassian.png'
-import dropbox from '../../assets/dropbox.png'
-import shopify from '../../assets/shopify.png'
+import litelogo from '../../assets/litelogo.png'
+import ethlogo from '../../assets/ethlogo.png'
+import bitcoinlogo from '../../assets/bitcoinlogo.png'
+import dogelogo from '../../assets/dogelogo.png'
+import ripplelogo from '../../assets/ripplelogo.png'
 
 export {
-    google,
-    slack,
-    atlassian,
-    dropbox,
-    shopify
+    litelogo,
+    ethlogo,
+    bitcoinlogo,
+    dogelogo,
+    ripplelogo
 }

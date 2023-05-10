@@ -63,21 +63,21 @@
 .div__gradient {
 
     /* ff 3.6+ */
-    background:-moz-linear-gradient(90deg, #AE67FA 0%, #F49867 99.55%); 
+    background:-moz-linear-gradient(90deg, #FF2E63 0%, #F9ED69 99.55%); 
 
     /* safari 5.1+,chrome 10+ */
-    background:-webkit-linear-gradient(90deg, #AE67FA 0%, #F49867 99.55%);
+    background:-webkit-linear-gradient(90deg, #FF2E63 0%, #F9ED69 99.55%);
 
     /* opera 11.10+ */
-    background:-o-linear-gradient(90deg, #AE67FA 0%, #F49867 99.55%);
+    background:-o-linear-gradient(90deg, #FF2E63 0%, #F9ED69 99.55%);
 
     /* ie 6-9 */
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#F49867', endColorstr='#AE67FA', GradientType=0 );
 
     /* ie 10+ */
-    background:-ms-linear-gradient(90deg, #AE67FA 0%, #F49867 99.55%);
+    background:-ms-linear-gradient(90deg, #FF2E63 0%, #F9ED69 99.55%);
 
     /* global 94%+ browsers support */
-    background:linear-gradient(90deg, #AE67FA 0%, #F49867 99.55%);
+    background:linear-gradient(90deg, #FF2E63 0%, #F9ED69 99.55%);
 
 }
