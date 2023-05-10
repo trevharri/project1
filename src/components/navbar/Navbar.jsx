@@ -5,7 +5,7 @@ import './navbar.css';
 const Menu = () => (
   <>
     <p><a href="#home">Home</a></p>
-    <p><a href="#wgpt3">What is Crypto Stop?</a></p>
+    <p><a href="#wgpt3">What is CryptoStop?</a></p>
     <p><a href="#possibility">Crypto Card</a></p>
     <p><a href="#features">Case Studies</a></p>
     <p><a href="#blog">Library</a></p>
